@@ -2,3 +2,73 @@
 13/03/2021 18:31:42 : Result directory: ../Results
 13/03/2021 18:31:55 : Getting values method started.
 13/03/2021 18:31:55 : Getting values method successfully finished.
+24/08/2021 13:31:18 : Network Model Service Test Client is up and running...
+24/08/2021 13:31:18 : Result directory: ../Results
+24/08/2021 13:32:39 : Getting values method started.
+24/08/2021 13:32:40 : Getting values method successfully finished.
+25/08/2021 00:52:29 : Network Model Service Test Client is up and running...
+25/08/2021 00:52:29 : Result directory: ../Results
+25/08/2021 00:53:53 : Getting values method started.
+25/08/2021 00:53:53 : Getting values method successfully finished.
+25/08/2021 00:54:56 : Getting extent values method started.
+25/08/2021 00:54:56 : Getting extent values method failed for 12884901890.
+	Invalid Model Code: 12884901890
+25/08/2021 00:55:35 : Getting extent values method started.
+25/08/2021 00:55:35 : Getting extent values method successfully finished.
+25/08/2021 00:58:49 : Getting related values method started.
+25/08/2021 00:58:49 : Getting related values method  failed for sourceGlobalId = 8589934595 and association (propertyId = TIMESERIES_OBJAGGREG, type = 3). Reason: There was an error while trying to serialize parameter http://tempuri.org/:association. The InnerException message was 'Enum value '3' is invalid for type 'FTN.Common.ModelCode' and cannot be serialized. Ensure that the necessary enum values are present and are marked with EnumMemberAttribute attribute if the type has DataContractAttribute attribute.'.  Please see InnerException for more details.
+25/08/2021 00:59:23 : Getting related values method started.
+25/08/2021 00:59:23 : Getting related values method successfully finished.
+25/08/2021 01:09:23 : Network Model Service Test Client is up and running...
+25/08/2021 01:09:23 : Result directory: ../Results
+25/08/2021 01:10:02 : Getting values method started.
+25/08/2021 01:10:02 : Getting values method successfully finished.
+25/08/2021 01:16:14 : Getting extent values method started.
+25/08/2021 01:16:14 : Getting extent values method successfully finished.
+25/08/2021 01:19:19 : Getting related values method started.
+25/08/2021 01:19:19 : Getting related values method successfully finished.
+25/08/2021 01:23:23 : Getting related values method started.
+25/08/2021 01:25:14 : Network Model Service Test Client is up and running...
+25/08/2021 01:25:14 : Result directory: ../Results
+25/08/2021 01:26:12 : Getting related values method started.
+25/08/2021 01:26:12 : Getting related values method successfully finished.
+25/08/2021 01:28:44 : Getting related values method started.
+25/08/2021 01:28:44 : Getting related values method successfully finished.
+25/08/2021 01:29:17 : Getting related values method started.
+25/08/2021 01:29:17 : Getting related values method successfully finished.
+25/08/2021 01:30:35 : Getting related values method started.
+25/08/2021 01:30:35 : Getting related values method successfully finished.
+25/08/2021 01:31:02 : Getting values method started.
+25/08/2021 01:31:02 : Getting values method successfully finished.
+25/08/2021 01:42:17 : Getting values method started.
+25/08/2021 01:42:17 : Getting values method successfully finished.
+25/08/2021 02:03:32 : Network Model Service Test Client is up and running...
+25/08/2021 02:03:32 : Result directory: ../Results
+25/08/2021 02:04:08 : Getting values method started.
+25/08/2021 02:04:08 : Getting values method successfully finished.
+25/08/2021 02:05:43 : Getting related values method started.
+25/08/2021 02:05:43 : Getting related values method successfully finished.
+25/08/2021 02:08:57 : Getting values method started.
+25/08/2021 02:08:57 : Getting values method successfully finished.
+25/08/2021 02:11:55 : Network Model Service Test Client is up and running...
+25/08/2021 02:11:55 : Result directory: ../Results
+25/08/2021 02:12:14 : Getting values method started.
+25/08/2021 02:12:14 : Getting values method successfully finished.
+25/08/2021 02:14:54 : Getting related values method started.
+25/08/2021 02:14:55 : Getting related values method successfully finished.
+25/08/2021 02:17:28 : Getting related values method started.
+25/08/2021 02:17:28 : Getting related values method successfully finished.
+25/08/2021 02:18:40 : Getting related values method started.
+25/08/2021 02:18:40 : Getting related values method successfully finished.
+25/08/2021 02:19:44 : Getting related values method started.
+25/08/2021 02:19:44 : Getting related values method successfully finished.
+25/08/2021 02:20:20 : Getting related values method started.
+25/08/2021 02:20:20 : Getting related values method successfully finished.
+25/08/2021 02:24:41 : Getting related values method started.
+25/08/2021 02:24:41 : Getting related values method successfully finished.
+25/08/2021 02:25:18 : Getting related values method started.
+25/08/2021 02:25:18 : Getting related values method successfully finished.
+25/08/2021 02:27:39 : Getting related values method started.
+25/08/2021 02:27:39 : Getting related values method successfully finished.
+25/08/2021 02:28:54 : Getting extent values method started.
+25/08/2021 02:28:54 : Getting extent values method successfully finished.

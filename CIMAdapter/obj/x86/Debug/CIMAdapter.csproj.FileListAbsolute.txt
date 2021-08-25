@@ -20,3 +20,10 @@ D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMAdapter\obj\x86\Debug\CIMAdapter.csprojAssemblyReference.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb

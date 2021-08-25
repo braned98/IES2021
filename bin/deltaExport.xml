@@ -65,17 +65,22 @@
             <Property id="IDOBJ_NAME" value="IESPoint" />
             <Property id="IDOBJ_ALIASNAME" value="FirstPoint" />
             <Property id="POINT_POSITION" value="10000" />
-            <Property id="POINT_BIDQUANT" value="560" />
+            <Property id="POINT_BIDQUANT" value="150" />
+            <Property id="POINT_QUANTITY" value="560" />
             <Property id="POINT_PERIOD" value="0x00000002ffffffff" />
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
           <id gid="0x00000006ffffffff" type="TIMESERIES" />
           <Properties>
+            <Property id="IDOBJ_MRID" value="TS_493000" />
+            <Property id="IDOBJ_NAME" value="IESTimeSeries" />
+            <Property id="IDOBJ_ALIASNAME" value="FirstTimeSeries" />
             <Property id="TIMESERIES_OBJAGGREG" value="TimeSerObject" />
             <Property id="TIMESERIES_PRODUCT" value="TimeSerProduct" />
             <Property id="TIMESERIES_VERSION" value="FirstVersion" />
             <Property id="TIMESERIES_MARKETDOC" value="0x00000004ffffffff" />
+            <Property id="TIMESERIES_PERIOD" value="0x00000002fffffffe" />
           </Properties>
         </ResourceDescription>
         <ResourceDescription>

@@ -19,3 +19,9 @@ D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\CIMParser.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\CIMParser.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMParser\obj\x86\Debug\CIMParser.csprojAssemblyReference.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMParser\obj\x86\Debug\CIMParser.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\CIMParser\obj\x86\Debug\CIMParser.pdb

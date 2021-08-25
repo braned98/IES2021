@@ -20,3 +20,10 @@ D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelServic
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CopyComplete
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.Services.NetworkModelService.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.Services.NetworkModelService.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\obj\x86\Debug\NetworkModelService.csprojAssemblyReference.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\obj\x86\Debug\NetworkModelService.csproj.CopyComplete
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\obj\x86\Debug\FTN.Services.NetworkModelService.pdb

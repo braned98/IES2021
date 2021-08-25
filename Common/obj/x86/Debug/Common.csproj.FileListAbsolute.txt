@@ -19,3 +19,9 @@ D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Deb
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csprojAssemblyReference.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.Common.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.Common.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\Common\obj\x86\Debug\Common.csprojAssemblyReference.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\Common\obj\x86\Debug\FTN.Common.pdb

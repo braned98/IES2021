@@ -85,7 +85,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
             switch (prop.Id)
             {
                 case ModelCode.PROCESS_CLASSTYPE:
-                    prop.SetValue(processType);
+                    prop.SetValue(classificationType);
                     break;
 
                 case ModelCode.PROCESS_MARKETDOCS:

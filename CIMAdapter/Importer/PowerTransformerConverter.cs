@@ -45,7 +45,7 @@
                 }
                 if (cimPoint.QuantityHasValue)
                 {
-                    rd.AddProperty(new Property(ModelCode.POINT_BIDQUANT, cimPoint.Quantity));
+                    rd.AddProperty(new Property(ModelCode.POINT_QUANTITY, cimPoint.Quantity));
                 }
                 if (cimPoint.PeriodHasValue)
                 {
@@ -114,6 +114,7 @@
                 {
                     rd.AddProperty(new Property(ModelCode.DOCUMENT_TYPE, cimDocument.Type));
                 }
+                
             }
         }
 
@@ -155,8 +156,12 @@
 
         public static void PopulateTimeSeriesProperties(FTN.TimeSeries cimTimeSeries, ResourceDescription rd, ImportHelper importHelper, TransformAndLoadReport report)
         {
+            
+
             if ((cimTimeSeries != null) && (rd != null))
             {
+
+                PowerTransformerConverter.PopulateIdentifiedObjectProperties(cimTimeSeries, rd);
 
                 if (cimTimeSeries.ObjectAggregationHasValue)
                 {
@@ -179,6 +184,16 @@
                         report.Report.Append("\" - Failed to set reference to MarketDocument: rdfID \"").Append(cimTimeSeries.MarketDocument.ID).AppendLine(" \" is not mapped to GID!");
                     }
                     rd.AddProperty(new Property(ModelCode.TIMESERIES_MARKETDOC, gid));
+                }
+                if (cimTimeSeries.PeriodHasValue)
+                {
+                    long gid = importHelper.GetMappedGID(cimTimeSeries.Period.ID);
+                    if (gid < 0)
+                    {
+                        report.Report.Append("WARNING: Convert ").Append(cimTimeSeries.GetType().ToString()).Append(" rdfID = \"").Append(cimTimeSeries.ID);
+                        report.Report.Append("\" - Failed to set reference to MarketDocument: rdfID \"").Append(cimTimeSeries.Period.ID).AppendLine(" \" is not mapped to GID!");
+                    }
+                    rd.AddProperty(new Property(ModelCode.TIMESERIES_PERIOD, gid));
                 }
             }
         }

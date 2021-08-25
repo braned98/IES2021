@@ -40,3 +40,10 @@ D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelServic
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.CopyComplete
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.dll
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.DataModel.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\FTN.DataModel.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.CopyComplete
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.dll
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.pdb

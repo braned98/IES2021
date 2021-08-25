@@ -42,3 +42,11 @@ D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\bin\NMSTestClient.
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\bin\NMSTestClient.exe
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\bin\NMSTestClient.pdb
 D:\Desktop\Projekat-2021\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CopyComplete
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\NMSTestClient.exe.config
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\NMSTestClient.exe
+C:\Users\bdobr\Documents\GitHub\IES2021\bin\NMSTestClient.pdb
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csprojAssemblyReference.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CoreCompileInputs.cache
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.csproj.CopyComplete
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.exe
+C:\Users\bdobr\Documents\GitHub\IES2021\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.pdb
