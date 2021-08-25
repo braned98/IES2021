@@ -1,7 +1,7 @@
 ﻿<delta id="0">
   <operations>
     <operation type="insert">
-      <ResourceDescriptions count="8">
+      <ResourceDescriptions count="13">
         <ResourceDescription>
           <id gid="0x00000003ffffffff" type="PROCESS" />
           <Properties>
@@ -18,6 +18,8 @@
             <Property id="IDOBJ_MRID" value="MD_328000" />
             <Property id="IDOBJ_NAME" value="IESFirstMarketDocument" />
             <Property id="IDOBJ_ALIASNAME" value="FirstDocument" />
+            <Property id="DOCUMENT_CREATEDDT" value="637189632000000000" />
+            <Property id="DOCUMENT_LASTMODDT" value="637213824000000000" />
             <Property id="DOCUMENT_REVISIONNUM" value="53378" />
             <Property id="DOCUMENT_SUBJECT" value="Project" />
             <Property id="DOCUMENT_TITLE" value="ProjectDocument" />
@@ -31,6 +33,8 @@
             <Property id="IDOBJ_MRID" value="MD_578000" />
             <Property id="IDOBJ_NAME" value="IESSecondMarketDocument" />
             <Property id="IDOBJ_ALIASNAME" value="SecondDocument" />
+            <Property id="DOCUMENT_CREATEDDT" value="636898464000000000" />
+            <Property id="DOCUMENT_LASTMODDT" value="637351200000000000" />
             <Property id="DOCUMENT_REVISIONNUM" value="53378" />
             <Property id="DOCUMENT_SUBJECT" value="Project" />
             <Property id="DOCUMENT_TITLE" value="ProjectDocument" />
@@ -71,6 +75,30 @@
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="POINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="PO_33000" />
+            <Property id="IDOBJ_NAME" value="IESPoint" />
+            <Property id="IDOBJ_ALIASNAME" value="SecondPoint" />
+            <Property id="POINT_POSITION" value="33000" />
+            <Property id="POINT_BIDQUANT" value="150" />
+            <Property id="POINT_QUANTITY" value="888" />
+            <Property id="POINT_PERIOD" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffd" type="POINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="PO_66000" />
+            <Property id="IDOBJ_NAME" value="IESPoint" />
+            <Property id="IDOBJ_ALIASNAME" value="ThirdPoint" />
+            <Property id="POINT_POSITION" value="66000" />
+            <Property id="POINT_BIDQUANT" value="950" />
+            <Property id="POINT_QUANTITY" value="455" />
+            <Property id="POINT_PERIOD" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
           <id gid="0x00000006ffffffff" type="TIMESERIES" />
           <Properties>
             <Property id="IDOBJ_MRID" value="TS_493000" />
@@ -84,11 +112,46 @@
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="TIMESERIES" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TS_893000" />
+            <Property id="IDOBJ_NAME" value="IESTimeSeries" />
+            <Property id="IDOBJ_ALIASNAME" value="SecondTimeSeries" />
+            <Property id="TIMESERIES_OBJAGGREG" value="TimeSerObject" />
+            <Property id="TIMESERIES_PRODUCT" value="TimeSerProduct" />
+            <Property id="TIMESERIES_VERSION" value="FirstVersion" />
+            <Property id="TIMESERIES_MARKETDOC" value="0x00000004ffffffff" />
+            <Property id="TIMESERIES_PERIOD" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffd" type="TIMESERIES" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TS_997000" />
+            <Property id="IDOBJ_NAME" value="IESTimeSeries" />
+            <Property id="IDOBJ_ALIASNAME" value="ThirdTimeSeries" />
+            <Property id="TIMESERIES_OBJAGGREG" value="TimeSerObject" />
+            <Property id="TIMESERIES_PRODUCT" value="TimeSerProduct" />
+            <Property id="TIMESERIES_VERSION" value="FirstVersion" />
+            <Property id="TIMESERIES_MARKETDOC" value="0x00000004fffffffe" />
+            <Property id="TIMESERIES_PERIOD" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
           <id gid="0x00000005ffffffff" type="MEASUREMENTPOINT" />
           <Properties>
             <Property id="IDOBJ_MRID" value="MP_205606" />
             <Property id="IDOBJ_NAME" value="IESMeasurementPoint" />
             <Property id="IDOBJ_ALIASNAME" value="FirstMeasurementPoint" />
+            <Property id="MEASUREMENTPOINT_TIMESERIES" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="MEASUREMENTPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="MP_303303" />
+            <Property id="IDOBJ_NAME" value="IESMeasurementPoint" />
+            <Property id="IDOBJ_ALIASNAME" value="SecondMeasurementPoint" />
             <Property id="MEASUREMENTPOINT_TIMESERIES" value="0x00000006ffffffff" />
           </Properties>
         </ResourceDescription>

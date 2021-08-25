@@ -14,6 +14,8 @@
 
 <cim:MarketDocument rdf:ID="MD_328000">
 		<cim:MarketDocument.Process rdf:resource="PC_639001"/>
+		<cim:Document.createdDateTime>03/05/2020</cim:Document.createdDateTime>
+		<cim:Document.lastModifiedDateTime>04/02/2020</cim:Document.lastModifiedDateTime>
 		<cim:Document.revisionNumber>53378</cim:Document.revisionNumber>
 		<cim:Document.subject>Project</cim:Document.subject>
 		<cim:Document.title>ProjectDocument</cim:Document.title>
@@ -25,6 +27,8 @@
 
     <cim:MarketDocument rdf:ID="MD_578000">
 		<cim:MarketDocument.Process rdf:resource="PC_639001"/>
+		<cim:Document.createdDateTime>04/03/2019</cim:Document.createdDateTime>
+		<cim:Document.lastModifiedDateTime>09/08/2020</cim:Document.lastModifiedDateTime>
 		<cim:Document.revisionNumber>53378</cim:Document.revisionNumber>
 		<cim:Document.subject>Project</cim:Document.subject>
 		<cim:Document.title>ProjectDocument</cim:Document.title>
@@ -59,6 +63,26 @@
 		<cim:IdentifiedObject.mRID>PO_15000</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>IESPoint</cim:IdentifiedObject.name>
 	</cim:Point>
+
+	<cim:Point rdf:ID="PO_33000">
+		<cim:Point.bidQuantity>150</cim:Point.bidQuantity>
+		<cim:Point.Period rdf:resource="PE_303003"/>
+		<cim:Point.position>33000</cim:Point.position>
+		<cim:Point.quantity>888</cim:Point.quantity>
+		<cim:IdentifiedObject.aliasName>SecondPoint</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>PO_33000</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>IESPoint</cim:IdentifiedObject.name>
+	</cim:Point>
+
+	<cim:Point rdf:ID="PO_66000">
+		<cim:Point.bidQuantity>950</cim:Point.bidQuantity>
+		<cim:Point.Period rdf:resource="PE_303003"/>
+		<cim:Point.position>66000</cim:Point.position>
+		<cim:Point.quantity>455</cim:Point.quantity>
+		<cim:IdentifiedObject.aliasName>ThirdPoint</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>PO_66000</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>IESPoint</cim:IdentifiedObject.name>
+	</cim:Point>
 	
 	
 	<cim:TimeSeries rdf:ID="TS_493000">
@@ -72,10 +96,39 @@
 		<cim:IdentifiedObject.name>IESTimeSeries</cim:IdentifiedObject.name>
 	</cim:TimeSeries>
 
+	<cim:TimeSeries rdf:ID="TS_893000">
+		<cim:TimeSeries.MarketDocument rdf:resource="MD_328000"/>	
+		<cim:TimeSeries.objectAggregation>TimeSerObject</cim:TimeSeries.objectAggregation>
+		<cim:TimeSeries.Period rdf:resource="PE_303003"/>
+		<cim:TimeSeries.product>TimeSerProduct</cim:TimeSeries.product>
+		<cim:TimeSeries.version>FirstVersion</cim:TimeSeries.version>
+		<cim:IdentifiedObject.aliasName>SecondTimeSeries</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TS_893000</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>IESTimeSeries</cim:IdentifiedObject.name>
+	</cim:TimeSeries>
+
+	<cim:TimeSeries rdf:ID="TS_997000">
+		<cim:TimeSeries.MarketDocument rdf:resource="MD_578000"/>	
+		<cim:TimeSeries.objectAggregation>TimeSerObject</cim:TimeSeries.objectAggregation>
+		<cim:TimeSeries.Period rdf:resource="PE_202002"/>
+		<cim:TimeSeries.product>TimeSerProduct</cim:TimeSeries.product>
+		<cim:TimeSeries.version>FirstVersion</cim:TimeSeries.version>
+		<cim:IdentifiedObject.aliasName>ThirdTimeSeries</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TS_997000</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>IESTimeSeries</cim:IdentifiedObject.name>
+	</cim:TimeSeries>
+
 	<cim:MeasurementPoint rdf:ID="MP_205606">
 		<cim:MeasurementPoint.TimeSeries rdf:resource="TS_493000"/>
 		<cim:IdentifiedObject.aliasName>FirstMeasurementPoint</cim:IdentifiedObject.aliasName>
 		<cim:IdentifiedObject.mRID>MP_205606</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>IESMeasurementPoint</cim:IdentifiedObject.name>
+	</cim:MeasurementPoint>
+
+	<cim:MeasurementPoint rdf:ID="MP_303303">
+		<cim:MeasurementPoint.TimeSeries rdf:resource="TS_493000"/>
+		<cim:IdentifiedObject.aliasName>SecondMeasurementPoint</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>MP_303303</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>IESMeasurementPoint</cim:IdentifiedObject.name>
 	</cim:MeasurementPoint>
 
